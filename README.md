@@ -2,9 +2,12 @@
 
 # Project Overview
 ## Exploratory Data Analysis
-Follow the notebook : `emotions_Classification.ipynb` section 
+Follow the notebook : `emotions_Classification.ipynb` section Exploratory data analysis
 # Installation and Setup
 Install requirements.txt 
+
+# Documentation
+To follow the project please read the report. 
 
 # Data
 ## Source Data
@@ -19,7 +22,8 @@ Follow both appoaches.
 
 ```bash
 └───EEG_EmotionClassifier
-    ├───emotions_Classification.ipynb
+    ├───notebook
+        └───emotions_Classification.ipynb
     └───Report
        └───Report.pdf
 
